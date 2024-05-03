@@ -1,0 +1,71 @@
+Code	Feature
+Dise1	autoimmune
+Dise2	bladder_kidney
+Dise3	cancer
+Dise4	cardiometabolic
+Dise5	cardiovascular
+Dise6	eye_ear_nose_throat
+Dise7	fatigue
+Dise8	gut_gi
+Dise9	lungs
+Dise10	liver_pancreas
+Dise11	mental_health
+Dise12	musculoskeletal
+Dise13	neurocognitive
+Dise14	sleep_condition
+Dise15	gender-related disease (mens_health)
+Act1	ankle-swelling
+Act2	dizziness-or-fainting
+Act3	extreme-fatigue
+Act4	heart-palpitations
+Act5	lower-leg-pain
+Act6	pain-or-discomfort
+Act7	shortness-of-breath:-at-night
+Act8	shortness-of-breath:-lying-flat
+Act9	shortness-of-breath
+SAT1	not_healthy
+SAT2	dislike_way_i_am
+SAT3	have_energy
+SAT4	very_happy
+SAT5	fun_with_people
+SAT6	make_decisions
+Med1	meds_cholesterol
+Med2	meds_blood_sugar
+Med3	meds_blood_pressure
+Diges1	abdominal-pain
+Diges2	poor_or_lack_of_appetite
+CHEM1	A/G RATIO
+CHEM2	ALAT (SGPT)
+CHEM3	ALBUMIN
+CHEM4	ALKALINE PHOSPHATASE
+CHEM5	ASAT (SGOT)
+CHEM6	BILIRUBIN, TOTAL
+CHEM7	CALCIUM
+CHEM8	CARBON DIOXIDE (CO2)
+CHEM9	CHLORIDE
+CHEM10	CHOLESTEROL, TOTAL
+CHEM11	CREATININE ENZ, SER
+CHEM12	CRP HIGH SENSITIVITY
+CHEM13	FERRITIN
+CHEM14	GFR, MDRD
+CHEM15	GLOBULIN
+CHEM16	GLUCOSE
+CHEM17	GLYCOHEMOGLOBIN A1C
+CHEM18	HDL CHOL DIRECT
+CHEM19	INSULIN
+CHEM20	LDL-CHOL CALCULATION
+CHEM21	LINOLEIC_ACID
+CHEM22	POTASSIUM
+CHEM23	PROTEIN, TOTAL SERUM
+CHEM24	SODIUM
+CHEM25	TRIGLYCERIDES
+CHEM26	UREA NITROGEN
+CHEM27	URIC ACID
+CHEM28	VITAMIN D, 25-OH TOT
+CHEM29	OMEGA-3 INDEX
+CHEM30	Triglyceride HDL Ratio
+BP1	diastolic
+BP2	systolic
+BP3	MEAN_ARTERIAL_BLOOD_PRESSURE
+BP4	heart_rate
+BP5	PULSE_PRESSURE
