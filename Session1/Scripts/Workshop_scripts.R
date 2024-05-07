@@ -15,8 +15,6 @@ vc_palette <- function(palette, ramp=TRUE){
 }
 
 
-RWB <- diverging_hcl(201,palette="Blue Red 3")
-
 
 showSet <- function(Z, analytes, rcolors=NULL, ccolors=NULL, ...) {
     if (is.null(rcolors)) {
