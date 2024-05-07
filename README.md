@@ -6,7 +6,7 @@ Course materials for the [Systems Biology Of Aging Virtual Workshop 24](https://
 
 
 ## Computational Platform
-This year we will be using Amazon SageMaker Studio Lab. This is a cloud-based data analytics platform that runs JupyterLab, an open-source coding environment. In Studio Lab, you will be able to access data and run all the code presented in the workshop, free of charge. Instructions on creating your login and accessing your Studio Lab space will be emailed to registrants. These accounts will only be active for several days following the workshop. However, notebooks and additional materials will continue to be available in the course GitHub. <br>
+This year we will be using Amazon SageMaker Studio. This is a cloud-based data analytics platform that runs JupyterLab, an open-source coding environment. In SageMaker Studio, you will be able to access data and run all the code presented in the workshop, free of charge. Instructions on creating your login and accessing your Studio Lab space will be emailed to registrants. These accounts will only be active for several days following the workshop. However, notebooks and additional materials will continue to be available in the course GitHub. <br>
 [AWS SageMaker tutorial and troubleshooting](https://docs.google.com/presentation/d/1Hh0GXUHuHJOjWvQDOh5aDq_swyi7C4Po/edit#slide=id.g2705e0e223b_0_25) <br>
 
 ## Session 1: Multiomic Analysis of Frailty [PPT](https://docs.google.com/presentation/d/1hBnmXDfrJxfxKkE_X4xjOlYkDU4sA7ufKYuic1vRU3w/edit)
