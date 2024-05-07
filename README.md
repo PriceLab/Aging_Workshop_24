@@ -21,7 +21,7 @@ Instructor: Max Robinson, PhD <br>
   Notebook1_DIABLO.ipynb <br>
   Notebook2_GLMM.ipynb <br>
 
-## Session 3: Machine Learning Analysis
+## Session 3: Machine Learning Analysis [PPT](https://docs.google.com/presentation/d/1hfZGe1aPmmilU4MOT0-dkqs1q11mpD0igLzWeLc9YRs/edit#slide=id.g2da5a8f889c_1_50)
 Instructor: Alex Ralevski, PhD <br>
 
   Data Analysis.ipynb <br>
