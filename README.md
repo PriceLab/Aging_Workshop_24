@@ -2,7 +2,7 @@
 
 
 # Aging_Workshop_24
-Course materials for the Systems Biology Of Aging Virtual Workshop 24 <br>
+Course materials for the [Systems Biology Of Aging Virtual Workshop 24](https://isbscience.org/aging-workshop/) <br>
 
 
 ## Computational Platform
