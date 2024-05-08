@@ -15,7 +15,7 @@ Instructor: Lance Pflieger, PhD <br>
   1-SingleOmic.ipynb <br>
   2-MultiOmic.ipynb <br>
 
-## Session 2: Longitudinal Trajectory Analysis
+## Session 2: Longitudinal Trajectory Analysis [PPT](https://docs.google.com/presentation/d/1igiruWROco1VnaC_QlwHejSkI1Uysp-LzQ_vz80TSdQ/edit#slide=id.g2c7199f8bfe_0_76) 
 Instructor: Max Robinson, PhD <br>
 
   Notebook1_DIABLO.ipynb <br>
